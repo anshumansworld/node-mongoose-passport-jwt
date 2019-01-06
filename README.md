@@ -1,7 +1,7 @@
 # node-mongoose-passport-jwt
 Node application template using jwt, passport &amp; mongoose
 
-##Setup:
+## Setup:
 ### 1. Config
 Change URL of *mongodb* in `config/config.json` 
 ### 2. download dependencies
