@@ -1,0 +1,14 @@
+{
+    "DEV": {
+        "log_level": "debug",
+        "db": {
+            "url": "mongodb://url"
+        }
+    },
+    "PROD": {
+        "log_level": "error",
+        "db": {
+            "url": "mongodb://url"
+        }
+    }
+}
